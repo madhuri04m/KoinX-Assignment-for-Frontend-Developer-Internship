@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='35' height='35' viewBox='0 0 35 35' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<g clip-path='url(#clip0_57_45062)'>
+<g clip-path='url(#clip1_57_45062)'>
+<g clip-path='url(#clip2_57_45062)'>
+<g filter='url(#filter0_d_57_45062)'>
+<path d='M3.97266 17.1431C3.97266 24.8751 10.2407 31.1431 17.9727 31.1431C25.7046 31.1431 31.9727 24.8751 31.9727 17.1431C31.9727 9.41108 25.7046 3.14307 17.9727 3.14307C10.2407 3.14307 3.97266 9.41108 3.97266 17.1431Z' fill='white'/>
+<path d='M15.0029 16.7184C15.0029 16.5769 15.0622 16.4413 15.1673 16.3423L20.0111 11.778C20.2272 11.5744 20.574 11.5778 20.7857 11.7855C20.9975 11.9932 20.994 12.3267 20.7779 12.5302L16.3333 16.7184L20.7779 20.9065C20.994 21.1101 20.9975 21.4435 20.7857 21.6513C20.574 21.859 20.2272 21.8624 20.0111 21.6588L15.1673 17.0945C15.0622 16.9955 15.0029 16.8599 15.0029 16.7184Z' fill='#171717'/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id='filter0_d_57_45062' x='-4.02734' y='-4.85693' width='44' height='44' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'>
+<feFlood flood-opacity='0' result='BackgroundImageFix'/>
+<feColorMatrix in='SourceAlpha' type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0' result='hardAlpha'/>
+<feOffset/>
+<feGaussianBlur stdDeviation='4'/>
+<feComposite in2='hardAlpha' operator='out'/>
+<feColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0'/>
+<feBlend mode='normal' in2='BackgroundImageFix' result='effect1_dropShadow_57_45062'/>
+<feBlend mode='normal' in='SourceGraphic' in2='effect1_dropShadow_57_45062' result='shape'/>
+</filter>
+<clipPath id='clip0_57_45062'>
+<rect width='34' height='34' fill='white' transform='translate(0.972656 0.143066)'/>
+</clipPath>
+<clipPath id='clip1_57_45062'>
+<rect width='34' height='34' fill='white' transform='translate(0.972656 0.143066)'/>
+</clipPath>
+<clipPath id='clip2_57_45062'>
+<rect width='34' height='34' fill='white' transform='translate(0.972656 0.143066)'/>
+</clipPath>
+</defs>
+</svg>
